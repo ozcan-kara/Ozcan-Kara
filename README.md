@@ -6,7 +6,7 @@
 
 I'm a passionate **Software Engineer** with 2+ years of professional experience. I love building backend systems, exploring cloud technologies, and contributing to open-source projects. Always striving to learn and grow!
  
-- 💻 Backend Development Enthusiast (Golang, PHP, .NET Core)
+- 💻 Backend Development Enthusiast (Golang, Java)
 - ☁️ Cloud Explorer (AWS, Azure, Huawei Cloud, Alibaba Cloud)
 - 🧑‍💻 Open-Source Contributor
 - 🔄 Passionate about Microservices, Kubernetes, and CI/CD
@@ -30,7 +30,7 @@ I'm a passionate **Software Engineer** with 2+ years of professional experience.
 
 💼 **Experience**
 
-- **Innovance Consultancy** | Software Engineer | Aug 2023 - Present
+- **Freelance** | Software Engineer | Aug 2023 - Present
 - **Bilişim Eğitim Merkezi** | Software Engineer | 2022 - 2023
 - **Map Elektronik** | Backend Developer | PHP, Laravel, .NET Core, AWS
 - **Nox Digital** | Junior Full Stack Developer | PHP, WordPress, React
