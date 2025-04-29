@@ -79,11 +79,11 @@ I'm a passionate **Software Engineer** with 2+ years of professional experience.
 
 ---
 
-⚡ **Fun Facts**
+⚡ **Leadership Mindset**
 
-- ☕ Coffee addict and code lover
-- 🌐 Always eager to explore new technologies
-- 🚀 Believer in "Continuous Improvement"
+- 🤝 Earns Trust by being transparent, consistent, and respectful in collaboration
+- 🌱 Always Curious – continuously learning and exploring new technologies
+- 📈 Drives for Results by focusing on long-term quality and continuous improvement
 
 ---
 
