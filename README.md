@@ -5,7 +5,7 @@
 ✨ **About Me**
 
 I'm a passionate **Software Engineer** with 2+ years of professional experience. I love building backend systems, exploring cloud technologies, and contributing to open-source projects. Always striving to learn and grow!
-
+ 
 - 💻 Backend Development Enthusiast (Golang, PHP, .NET Core)
 - ☁️ Cloud Explorer (AWS, Azure, Huawei Cloud, Alibaba Cloud)
 - 🧑‍💻 Open-Source Contributor
@@ -23,6 +23,7 @@ I'm a passionate **Software Engineer** with 2+ years of professional experience.
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-ff69b4?style=for-the-badge"/>
 </p>
 
 ---
@@ -41,16 +42,40 @@ I'm a passionate **Software Engineer** with 2+ years of professional experience.
 
 - [LinkedIn](https://www.linkedin.com/in/ozcankaraa/)
 - [GitHub](https://github.com/ozcan-kara)
-- Email: ozcankara810@gmail.com
+- [Medium](https://medium.com/@ozcankaraa)
+- [Substack](https://substack.com/@ozcankaradev?utm_source=user-menu)
+- [Dev.to](https://dev.to/ozcankara)
+- Email: ozcankaraofficial@gmail.com
 
 ---
 
 🏆 **Certificates**
 
+**Amazon Web Services (AWS):**
 - AWS Certified Developer – Associate (2024)
-- Huawei HCCDP – Solution Architectures (2024)
-- Alibaba Cloud Associate - Database (2024)
-- Google Cloud's Apigee API Platform (2024)
+- AWS Well-Architected Foundations
+
+**Google Cloud:**
+- API Design and Fundamentals of Google Cloud's Apigee API Platform
+- Architecting with Google Kubernetes Engine: Foundations
+
+**Huawei Cloud:**
+- HCCDP – Solution Architectures
+- HCCDP – Cloud Migration
+- HCCDA-Cloud Native
+- HCCDA – AI
+- HCCDA – Big Data
+- HCCDA – Tech Essentials Certification
+
+**Alibaba Cloud:**
+- Associate (ACA) - Database Certification
+- Introduction to DevOps
+- ACA Developer Certification
+- ACP DevOps Engineer Certification
+- Introduction to Application Real-time Monitoring Service (ARMS)
+- ACA Cloud Native Certification
+- Using Generative AI Ethically & Responsibly
+- Introduction to ACK
 
 ---
 
