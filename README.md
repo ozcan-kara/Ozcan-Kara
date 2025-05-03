@@ -32,7 +32,7 @@ I'm a passionate **Software Engineer** with 2+ years of professional experience.
 
 - **Freelance** | Software Engineer | Aug 2023 - Present
 - **Bilişim Eğitim Merkezi** | Software Engineer | 2022 - 2023
-- **Map Elektronik** | Backend Developer | PHP, Laravel, .NET Core, AWS
+- **Map Elektronik** | Backend Developer | PHP, Laravel
 - **Nox Digital** | Junior Full Stack Developer | PHP, WordPress, React
 - **Boranka Technology** | Junior Backend Developer | PHP, CodeIgniter3
 
