@@ -40,7 +40,6 @@ I'm a passionate **Software Engineer** with 2+ years of professional experience.
 🌍 **Find Me Online**
 
 - [LinkedIn](https://www.linkedin.com/in/ozcankaraa/)
-- [GitHub](https://github.com/ozcan-kara)
 - [Medium](https://medium.com/@ozcankaraa)
 - [Substack](https://substack.com/@ozcankaradev?utm_source=user-menu)
 - [Dev.to](https://dev.to/ozcankara)
