@@ -9,7 +9,7 @@ Continuously curious and eager to grow, I enjoy taking on new challenges and tur
 
 💼 **I’m open to freelance work and job opportunities.**
 
-📂 My projects are available on my [old account](https://github.com/ozcankaraa),  
+📂 My projects are available on my (https://github.com/ozcankaraa),
 but I am now actively using my **new account**.
 
 ---
