@@ -6,12 +6,6 @@
 I'm a passionate **Software Development Engineer** with 3+ years of hands-on experience in building reliable and scalable systems.  
 I thrive on designing robust backend solutions, exploring the endless possibilities of cloud technologies, and contributing to the open-source community.  
 Continuously curious and eager to grow, I enjoy taking on new challenges and turning ideas into impactful software.
-
-💼 **I’m open to freelance work and job opportunities.**
-
-📂 My projects are available on my (https://github.com/ozcankaraa),
-but I am now actively using my **new account**.
-
 ---
 ✨ **Tech Stack**
 <p align="left">
