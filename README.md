@@ -3,9 +3,9 @@
 
 ✨ **About Me**
 
-I'm a passionate **Software Development Engineer** with 3+ years of hands-on experience in building reliable and scalable systems.  
-I thrive on designing robust backend solutions, exploring the endless possibilities of cloud technologies, and contributing to the open-source community.  
-Continuously curious and eager to grow, I enjoy taking on new challenges and turning ideas into impactful software.
+I'm a passionate Software Development Engineer with 3+ years of hands-on experience in building reliable, scalable, and modern backend systems.
+I thrive on designing robust APIs, architecting cloud-native solutions, and contributing to the open-source ecosystem.
+Driven by curiosity and continuous learning, I enjoy taking on new challenges, solving real-world engineering problems, and turning ideas into impactful, production-ready software.
 ---
 ✨ **Tech Stack**
 <p align="left">
