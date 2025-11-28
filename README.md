@@ -1,12 +1,5 @@
 ### Hi, I'm Ozcan Kara!  
 ---
-
-✨ **About Me**
-
-I'm a passionate Software Development Engineer with 3+ years of hands-on experience in building reliable, scalable, and modern backend systems.
-I thrive on designing robust APIs, architecting cloud-native solutions, and contributing to the open-source ecosystem.
-Driven by curiosity and continuous learning, I enjoy taking on new challenges, solving real-world engineering problems, and turning ideas into impactful, production-ready software.
----
 ✨ **Tech Stack**
 <p align="left">
 
